@@ -3,8 +3,9 @@
  * add - returns the sum of its parameters
  * @a: int type number
  * @b: int type number
- * retun (a + b) - sum of integers
+ * return (a + b) - sum of integers
  */
+
 int add(int a, int b)
 {
 return (a + b);
